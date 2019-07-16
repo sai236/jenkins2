@@ -5,6 +5,7 @@
 		<classes>
 			<class name="jenkinsTest2.test1" />
 			<class name="jenkinsTest2.test2" />
+			<class name="jenkinsTest2.test3" />
 		</classes>
 	</test>
 </suite> 
