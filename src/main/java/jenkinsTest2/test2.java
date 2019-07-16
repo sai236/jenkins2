@@ -7,6 +7,6 @@ public class test2 {
 
 	@Test
 	public void t2() {
-		Assert.assertTrue(true);
+		Assert.assertTrue(false);
 	}
 }
