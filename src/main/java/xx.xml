@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sucs>
-	<suc>10</suc>
-	<suc>20</suc>
-	<suc>30</suc>
-	<suc>50</suc>
-	<suc>40</suc>
-	<suc>30</suc>
-	<suc>70</suc>
-	<suc>40</suc>
-	<suc>30</suc>
-	<suc>70</suc>
-</sucs>
+<yaxis>成功率</yaxis> 
+<group>Plot Group</group>
+<series>10</series>
+<series>20</series>
+<series>30</series>
+<series>40</series>
+<series>50</series>
+<series>80</series>
+<series>50</series>
+<series>30</series>
+<series>40</series>
+<series>50</series>
+<yaxisMinimum>0</yaxisMinimum> 
+<yaxisMaximum>100</yaxisMaximum > 
