@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="Suite" parallel="false">
 	<test name="testNg">
-
+ <listeners>
+    <listener class-name="jenkinsTest2.MyISuiteListener2" />
+  </listeners>
 		<classes>
 			<class name="jenkinsTest2.test1" />
 			<class name="jenkinsTest2.test2" />
