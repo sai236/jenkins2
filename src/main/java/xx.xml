@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yaxis>成功率</yaxis>
-<group>Plot Group</group>
 <series>
 	<value>10</value>
 	<value>20</value>
@@ -13,5 +11,4 @@
 	<value>40</value>
 	<value>50</value>
 </series>
-<yaxisMinimum>0</yaxisMinimum>
-<yaxisMaximum>100</yaxisMaximum> 
+
