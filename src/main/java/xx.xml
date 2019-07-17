@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<series>
-	<value>10</value>
-	<value>20</value>
-	<value>30</value>
-	<value>40</value>
-	<value>50</value>
-	<value>80</value>
-	<value>50</value>
-	<value>30</value>
-	<value>40</value>
-	<value>50</value>
-</series>
+<value>
+	<series>10</series>
+	<series>20</series>
+	<series>30</series>
+	<series>40</series>
+	<series>50</series>
+	<series>80</series>
+	<series>50</series>
+	<series>30</series>
+	<series>40</series>
+	<series>50</series>
+</value>
 
